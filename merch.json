@@ -1,0 +1,69 @@
+{
+  "_howto": [
+    "THE LINE — merch showcase data. merch.js renders these cards in array",
+    "order into the #merch-grid on the home page; every card links to the",
+    "store. To add a drop: put its 800px-wide webp art in src/merch/,",
+    "add an entry here ({id, garment, title, description, image}), and add",
+    "the image path to the build's file list is NOT needed (the whole merch/",
+    "folder ships). 'description' doubles as the storefront listing copy."
+  ],
+  "store": "https://freewillridez.store",
+  "items": [
+    {
+      "id": "vol1-for-the-culture",
+      "garment": "hoodie",
+      "title": "Vol. 1 — For The Culture (Murder Mitten)",
+      "description": "The one that started it — the full murder mitten scene across the back: both peninsulas, the Mackinac Bridge, and a Freewill Ridez pack in 485C red running formation while the lead bike wheelies right past the cruiser. Three-ink print with dripping FREEWILLRIDEZ lettering up top and For The Culture in script below, because that's exactly what this drop is.",
+      "image": "merch/vol1-for-the-culture.webp"
+    },
+    {
+      "id": "vol2-till-death-do-us-part",
+      "garment": "hoodie",
+      "title": "Vol. 2 — Till Death Do Us Part",
+      "description": "Vol. 2 puts the vow in ink: two riders tucked and rolling under the I-96 West sign while the reaper stands scythe-up behind them and the helicopter spotlight sweeps the bridge. Cream, dark red, and teal on black — TILL DEATH DO US PART across the bottom, and we mean it.",
+      "image": "merch/vol2-till-death-do-us-part.webp"
+    },
+    {
+      "id": "vol3-detroit-motor-city",
+      "garment": "hoodie",
+      "title": "Vol. 3 — Detroit Motor City",
+      "description": "A rider carves past the Detroit skyline in cream, FL orange, and 287C blue, printed heavy across the back. Motor City made this crew — Vol. 3 puts the proof on your back.",
+      "image": "merch/vol3-detroit-motor-city.webp"
+    },
+    {
+      "id": "vol4-living-ghost",
+      "garment": "hoodie",
+      "title": "Vol. 4 — Living Ghost",
+      "description": "A pack of riders rolls out of a purple haze behind you, gold bike out front, ghost-eyed visors trailing — white, purple, and gold ink on black. Vol. 4 is for the ones who move through the city like they were never there.",
+      "image": "merch/vol4-living-ghost.webp"
+    },
+    {
+      "id": "vol5-king-of-the-streets",
+      "garment": "hoodie",
+      "title": "Vol. 5 — King of the Streets",
+      "description": "Two up, throttle pinned, smoke rolling off the rear tire — gold and burgundy ink under the arched FREEWILLRIDEZ banner. A hoodie that earns its crown the way the crew does: on the pavement, not in the comments.",
+      "image": "merch/vol5-king-of-the-streets.webp"
+    },
+    {
+      "id": "truly-wanted",
+      "garment": "shirt",
+      "title": "Truly Wanted",
+      "description": "Two riders parked in front of Michigan Central Station, Detroit glowing red behind them, with a Ghostface heart and blood-red script that says exactly what it means. Cream, red, and brown ink on a black tee — Freewill Ridez, wanted in the only way that counts.",
+      "image": "merch/truly-wanted.webp"
+    },
+    {
+      "id": "public-enemy-number-one",
+      "garment": "shirt",
+      "title": "Public Enemy Number One",
+      "description": "Athletic gold and two-tone grey on black — the Michigan crest, one bike, and a wall of badges closing in. A shirt for the ones who got labeled the problem and kept riding anyway.",
+      "image": "merch/public-enemy-number-one.webp"
+    },
+    {
+      "id": "box-logo-michigan-central",
+      "garment": "hoodie",
+      "title": "Michigan Central Box Logo",
+      "description": "Red Freewillridez box logo up front, the whole crew lined up at Michigan Central Station across the back. Red, white, and grey ink on a heavyweight hoodie — home turf, worn loud.",
+      "image": "merch/box-logo-michigan-central.webp"
+    }
+  ]
+}

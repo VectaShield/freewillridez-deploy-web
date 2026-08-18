@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>In The Garage | Freewill Ridez</title>
+    <meta name="description" content="The site is down for maintenance. Back shortly.">
+    <meta name="robots" content="noindex, follow">
+    <meta name="theme-color" content="#0a0a0c">
+    <link rel="stylesheet" href="/styles.css?v=20260818183727">
+    <link rel="icon" type="image/png" href="/favicon-64.png">
+    <link rel="icon" href="/favicon.ico" sizes="48x48 32x32 16x16">
+    <link rel="preload" href="/fonts/anton-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+</head>
+<body>
+    <main class="card">
+        <h1 class="name" style="font-size: 3.5rem;">PIT STOP</h1>
+        <p class="tagline">In the garage</p>
+
+        <section class="links">
+            <p class="fine-print">The site's on the lift for a quick wrench session. Back on the road shortly — the ridez never stop.</p>
+
+            <div class="link-grid" style="grid-template-columns: 1fr;">
+                <a class="link-btn" href="/" aria-label="Back to Freewill Ridez home">
+                    <span class="icon"><svg class="icon-svg" aria-hidden="true"><use href="/icons.svg#i-home"/></svg></span><span class="label">Back to Home</span>
+                </a>
+                <a class="link-btn" href="https://www.tiktok.com/@freewillflow" target="_blank" rel="noopener" aria-label="TikTok profile for Freewill Ridez">
+                    <span class="icon"><svg class="icon-svg" aria-hidden="true"><use href="/icons.svg#i-tiktok"/></svg></span><span class="label">Catch us on TikTok</span>
+                </a>
+            </div>
+        </section>
+
+        <footer class="footer">
+            <a href="/">&larr; Freewill Ridez Home</a>
+            <span>&copy; <span id="year"></span> Freewill Ridez</span>
+        </footer>
+    </main>
+
+    <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>
