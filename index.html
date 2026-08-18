@@ -33,7 +33,7 @@
     <meta name="twitter:image" content="https://freewillridez.com/og-image.png?v=1">
     <meta name="twitter:image:alt" content="Freewill Ridez — Pontiac, Michigan motorcycle group rides">
 
-    <link rel="stylesheet" href="styles.css?v=20260818190448">
+    <link rel="stylesheet" href="styles.css?v=20260818191056">
     <link rel="icon" type="image/png" href="favicon-64.png">
     <link rel="icon" href="/favicon.ico" sizes="48x48 32x32 16x16">
     <link rel="preload" href="/fonts/anton-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -92,7 +92,12 @@
 <body>
     <main class="card">
         <div class="avatar-wrap">
-            <img src="fwr-avatar.webp" alt="A Freewill Ridez rider on a black sportbike in front of Michigan Central Station under a red storm sky" class="avatar" width="310" height="310" fetchpriority="high">
+            <div class="hero-shell">
+                <div class="hero-frame">
+                    <img src="fwr-hero.webp" alt="A Freewill Ridez rider on a black sportbike in front of Michigan Central Station under a red storm sky" class="hero-img" width="960" height="779" fetchpriority="high">
+                </div>
+                <svg class="hero-bolt" viewBox="0 0 24 24" aria-hidden="true"><path d="M13.2 1 4.8 13.4h5.1L9.1 23l9.9-13.6h-5.4L15.9 1z"/></svg>
+            </div>
         </div>
 
         <h1 class="name wordmark-heading"><img src="fwr-wordmark.webp" alt="Freewill Ridez" class="wordmark" width="800" height="398"></h1>
@@ -171,7 +176,7 @@
     <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
     <!-- Lowest-priority scripts: both defer their own network work until
          after load and near-viewport. -->
-    <script src="feed.js?v=20260818190448" defer></script>
-    <script src="merch.js?v=20260818190448" defer></script>
+    <script src="feed.js?v=20260818191056" defer></script>
+    <script src="merch.js?v=20260818191056" defer></script>
 </body>
 </html>
