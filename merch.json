@@ -1,0 +1,28 @@
+{
+  "_howto": [
+    "MERCH — two featured items shown on the home page between The Links and",
+    "Latest. Once the Shopify store at freewillridez.store is live,",
+    "scripts/refresh-merch.mjs (hourly workflow) pulls the store's Featured",
+    "collection (/collections/frontpage/products.json) and REWRITES the",
+    "items below, downloading product images to src/merch/<handle>.webp.",
+    "Until then these two hand-seeded drops are shown. To feature products:",
+    "in Shopify admin, add them to the 'Home page' (frontpage) collection —",
+    "the top two appear here automatically within the hour.",
+    "Fields: id, title, url, image, and optional price (string, e.g. '45.00')."
+  ],
+  "store": "https://freewillridez.store",
+  "items": [
+    {
+      "id": "truly-wanted",
+      "title": "Truly Wanted",
+      "url": "https://freewillridez.store",
+      "image": "merch/truly-wanted.webp"
+    },
+    {
+      "id": "public-enemy-number-one",
+      "title": "Public Enemy Number One",
+      "url": "https://freewillridez.store",
+      "image": "merch/public-enemy-number-one.webp"
+    }
+  ]
+}

@@ -33,7 +33,7 @@
     <meta name="twitter:image" content="https://freewillridez.com/og-image.png?v=1">
     <meta name="twitter:image:alt" content="Freewill Ridez — Pontiac, Michigan motorcycle group rides">
 
-    <link rel="stylesheet" href="styles.css?v=20260818184153">
+    <link rel="stylesheet" href="styles.css?v=20260818185827">
     <link rel="icon" type="image/png" href="favicon-64.png">
     <link rel="icon" href="/favicon.ico" sizes="48x48 32x32 16x16">
     <link rel="preload" href="/fonts/anton-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -116,6 +116,19 @@
             </div>
         </section>
 
+        <!-- Merch: two featured items, rendered from merch.json by merch.js.
+             Once the Shopify store is live, an hourly workflow rewrites
+             merch.json from the store's Featured collection (see
+             scripts/refresh-merch.mjs). Hidden until data lands. -->
+        <div id="merch-anchor" aria-hidden="true"></div>
+        <section class="merch" id="merch" aria-label="Featured Freewill Ridez merch" hidden>
+            <h2 class="section-title">Merch</h2>
+            <div class="merch-grid" id="merch-grid"></div>
+            <a class="merch-more" href="https://freewillridez.store" target="_blank" rel="noopener">
+                Every drop lives at freewillridez.store &rarr;
+            </a>
+        </section>
+
         <!-- Latest TikTok uploads. Hidden until feed.js has data so the
              section never flashes an empty heading; feed.js only fetches
              once the page is idle and the section nears the viewport. -->
@@ -155,8 +168,9 @@
     </main>
 
     <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
-    <!-- Last script on the page: the feed is the lowest-priority thing here
-         and defers its own network work until after load. -->
-    <script src="feed.js?v=20260818184153" defer></script>
+    <!-- Lowest-priority scripts: both defer their own network work until
+         after load and near-viewport. -->
+    <script src="feed.js?v=20260818185827" defer></script>
+    <script src="merch.js?v=20260818185827" defer></script>
 </body>
 </html>
