@@ -19,6 +19,13 @@
       "url": "https://freewillridez.store/products/box-logo-michigan-central",
       "image": "merch/box-logo-michigan-central.webp",
       "price": "85.00"
+    },
+    {
+      "id": "truly-wanted",
+      "title": "Truly Wanted",
+      "url": "https://freewillridez.store/products/truly-wanted",
+      "image": "merch/truly-wanted.webp",
+      "price": "45.00"
     }
   ]
 }
