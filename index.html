@@ -18,8 +18,8 @@
     <meta property="og:url" content="https://freewillridez.com/">
     <meta property="og:site_name" content="Freewill Ridez">
     <meta property="og:locale" content="en_US">
-    <meta property="og:image" content="https://freewillridez.com/og-image.png?v=20260819060641">
-    <meta property="og:image:secure_url" content="https://freewillridez.com/og-image.png?v=20260819060641">
+    <meta property="og:image" content="https://freewillridez.com/og-image.png?v=20260819064543">
+    <meta property="og:image:secure_url" content="https://freewillridez.com/og-image.png?v=20260819064543">
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
@@ -30,11 +30,11 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Freewill Ridez | Motorcycle Group Rides | Pontiac, Michigan">
     <meta name="twitter:description" content="Group ridez out of Pontiac, Michigan — 75+ bikes deep, eight months straight. Movement. Dreamwork. Carving a path.">
-    <meta name="twitter:image" content="https://freewillridez.com/og-image.png?v=20260819060641">
+    <meta name="twitter:image" content="https://freewillridez.com/og-image.png?v=20260819064543">
     <meta name="twitter:image:alt" content="Freewill Ridez — Pontiac, Michigan motorcycle group rides">
 
-    <link rel="stylesheet" href="styles.css?v=20260819060641">
-    <link rel="icon" type="image/png" href="favicon-64.png?v=20260819060641">
+    <link rel="stylesheet" href="styles.css?v=20260819064543">
+    <link rel="icon" type="image/png" href="favicon-64.png?v=20260819064543">
     <link rel="icon" href="/favicon.ico" sizes="48x48 32x32 16x16">
     <link rel="preload" href="/fonts/anton-latin.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -75,7 +75,16 @@
             "https://www.tiktok.com/@freewillflow",
             "https://www.facebook.com/groups/1289920255732814",
             "https://freewillridez.store"
-          ]
+          ],
+          "memberOf": { "@id": "https://themotolegion.com/#org" }
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://themotolegion.com/#org",
+          "name": "The Moto Legion",
+          "url": "https://themotolegion.com/",
+          "description": "The Moto Legion is a southeast Michigan motorcycle content collective. Freewill Ridez is a member.",
+          "member": { "@id": "https://freewillridez.com/#person" }
         },
         {
           "@type": "WebSite",
@@ -92,12 +101,21 @@
 <body>
     <main class="card">
         <div class="avatar-wrap">
-            <img src="fwr-avatar.webp?v=20260819060641" alt="Freewill Ridez helmet-mark logo" class="avatar" width="200" height="200" fetchpriority="high">
+            <img src="fwr-avatar.webp?v=20260819064543" alt="Freewill Ridez helmet-mark logo" class="avatar" width="200" height="200" fetchpriority="high">
         </div>
 
-        <h1 class="name wordmark-heading"><img src="fwr-wordmark.webp?v=20260819060641" alt="Freewill Ridez" class="wordmark" width="900" height="211"></h1>
+        <h1 class="name wordmark-heading"><img src="fwr-wordmark.webp?v=20260819064543" alt="Freewill Ridez" class="wordmark" width="900" height="211"></h1>
         <p class="tagline">Movement <span class="sep">·</span> Dreamwork <span class="sep">·</span> Carving A Path</p>
         <p class="locale-line">Group Ridez &mdash; Pontiac, Michigan</p>
+
+        <!-- Membership credit. Understated visually, fully machine-readable:
+             JSON-LD carries Person.memberOf -> The Moto Legion, and this link
+             repeats it in the DOM so markup-only crawlers see the tie. -->
+        <p class="legion-member">
+            Member of
+            <a href="https://themotolegion.com/" target="_blank" rel="noopener external"
+               title="The Moto Legion — southeast Michigan motorcycle collective">The Moto Legion</a>
+        </p>
 
         <section class="links">
             <h2 class="section-title">The Links</h2>
@@ -182,7 +200,7 @@
     <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
     <!-- Lowest-priority scripts: both defer their own network work until
          after load and near-viewport. -->
-    <script src="feed.js?v=20260819060641" defer></script>
-    <script src="merch.js?v=20260819060641" defer></script>
+    <script src="feed.js?v=20260819064543" defer></script>
+    <script src="merch.js?v=20260819064543" defer></script>
 </body>
 </html>
