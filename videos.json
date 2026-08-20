@@ -9,7 +9,10 @@
     "The hourly refresh workflow re-pulls counts and preserves hand-edited",
     "'note' text by video id. Thumbnails land in src/thumbs/<id>.webp."
   ],
-  "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok. Editing this file by hand still works.",
+  "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
+  "_lastRefresh": {
+    "at": "2026-08-20T00:13:21.782Z"
+  },
   "videos": [
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7675043265439108365",
@@ -44,13 +47,13 @@
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7667704540426210573",
       "date": "2026-07-28",
-      "views": 786,
+      "views": 787,
       "note": "You can say what you want about our group rides, but they're..."
     },
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7664982909228453134",
       "date": "2026-07-21",
-      "views": 5846,
+      "views": 5851,
       "note": "Freewillridez group rides our next one in August 29th Pontiac..."
     },
     {
