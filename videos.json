@@ -11,67 +11,67 @@
   ],
   "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
   "_lastRefresh": {
-    "at": "2026-08-23T19:40:15.282Z"
+    "at": "2026-08-24T02:00:51.157Z"
   },
   "videos": [
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7675043265439108365",
       "date": "2026-08-17",
-      "views": 205,
+      "views": 214,
       "note": "FREEWILLRIDEZ NEXT GROUP RIDE IS IN PONTIAC, MICHIGAN, AUGUST..."
     },
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7674680677144612109",
       "date": "2026-08-16",
-      "views": 638,
+      "views": 650,
       "note": "Michigan have you not heard of the FREEWILRIDEZ GROUP RIDEZ Y..."
     },
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7672637865662139661",
       "date": "2026-08-11",
-      "views": 639,
+      "views": 643,
       "note": "Joy riding, I mean test driving a dealership 2025 zx10r maybe..."
     },
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7671028796803452173",
       "date": "2026-08-06",
-      "views": 1365,
+      "views": 1373,
       "note": "The day that haunts me !!"
     },
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7668160214062927118",
       "date": "2026-07-30",
-      "views": 798,
+      "views": 800,
       "note": "Love me while I’m here"
     },
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7667704540426210573",
       "date": "2026-07-28",
-      "views": 800,
+      "views": 802,
       "note": "You can say what you want about our group rides, but they're..."
     },
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7664982909228453134",
       "date": "2026-07-21",
-      "views": 6354,
+      "views": 6418,
       "note": "Freewillridez group rides our next one in August 29th Pontiac..."
     },
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7662221007318535438",
       "date": "2026-07-14",
-      "views": 1547,
+      "views": 1549,
       "note": "You ever feel like you in a video game"
     },
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7653886864226618637",
       "date": "2026-06-21",
-      "views": 1973,
+      "views": 1975,
       "note": "New tshirt iv dropped at our last ride out a few tshirt left..."
     },
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7652963963193314574",
       "date": "2026-06-19",
-      "views": 5435,
+      "views": 5437,
       "note": "(Isaiah 40:11)"
     },
     {
@@ -251,7 +251,7 @@
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7557783818132901175",
       "date": "2025-10-05",
-      "views": 4706,
+      "views": 4709,
       "note": "Vol. hoodies dropped last week!! 40/40 sold !! I host local b..."
     },
     {
@@ -275,7 +275,7 @@
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7557091385803918605",
       "date": "2025-10-03",
-      "views": 5225,
+      "views": 5229,
       "note": "My first ever hoodie drop 9/13/25 (vol.1 murder mitten )it we..."
     },
     {
