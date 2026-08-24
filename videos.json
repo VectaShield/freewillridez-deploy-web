@@ -11,49 +11,49 @@
   ],
   "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
   "_lastRefresh": {
-    "at": "2026-08-24T02:00:51.157Z"
+    "at": "2026-08-24T09:08:22.394Z"
   },
   "videos": [
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7675043265439108365",
       "date": "2026-08-17",
-      "views": 214,
+      "views": 216,
       "note": "FREEWILLRIDEZ NEXT GROUP RIDE IS IN PONTIAC, MICHIGAN, AUGUST..."
     },
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7674680677144612109",
       "date": "2026-08-16",
-      "views": 650,
+      "views": 652,
       "note": "Michigan have you not heard of the FREEWILRIDEZ GROUP RIDEZ Y..."
     },
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7672637865662139661",
       "date": "2026-08-11",
-      "views": 643,
+      "views": 645,
       "note": "Joy riding, I mean test driving a dealership 2025 zx10r maybe..."
     },
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7671028796803452173",
       "date": "2026-08-06",
-      "views": 1373,
+      "views": 1375,
       "note": "The day that haunts me !!"
     },
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7668160214062927118",
       "date": "2026-07-30",
-      "views": 800,
+      "views": 802,
       "note": "Love me while I’m here"
     },
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7667704540426210573",
       "date": "2026-07-28",
-      "views": 802,
+      "views": 804,
       "note": "You can say what you want about our group rides, but they're..."
     },
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7664982909228453134",
       "date": "2026-07-21",
-      "views": 6418,
+      "views": 6461,
       "note": "Freewillridez group rides our next one in August 29th Pontiac..."
     },
     {
