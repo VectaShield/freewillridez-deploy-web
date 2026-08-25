@@ -11,19 +11,25 @@
   ],
   "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
   "_lastRefresh": {
-    "at": "2026-08-25T11:48:35.518Z"
+    "at": "2026-08-25T15:09:32.697Z"
   },
   "videos": [
     {
+      "url": "https://www.tiktok.com/@freewillflow/video/7677978225737354510",
+      "date": "2026-08-25",
+      "views": 118,
+      "note": "Michigan!!! our next group ride is this Saturday at 2 PM in P…"
+    },
+    {
       "url": "https://www.tiktok.com/@freewillflow/video/7675043265439108365",
       "date": "2026-08-17",
-      "views": 225,
+      "views": 227,
       "note": "FREEWILLRIDEZ NEXT GROUP RIDE IS IN PONTIAC, MICHIGAN, AUGUST..."
     },
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7674680677144612109",
       "date": "2026-08-16",
-      "views": 674,
+      "views": 676,
       "note": "Michigan have you not heard of the FREEWILRIDEZ GROUP RIDEZ Y..."
     },
     {
@@ -53,7 +59,7 @@
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7664982909228453134",
       "date": "2026-07-21",
-      "views": 6589,
+      "views": 6604,
       "note": "Freewillridez group rides our next one in August 29th Pontiac..."
     },
     {
@@ -65,7 +71,7 @@
     {
       "url": "https://www.tiktok.com/@freewillflow/video/7653886864226618637",
       "date": "2026-06-21",
-      "views": 1977,
+      "views": 1978,
       "note": "New tshirt iv dropped at our last ride out a few tshirt left..."
     },
     {
