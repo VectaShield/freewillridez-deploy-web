@@ -11,311 +11,359 @@
   ],
   "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
   "_lastRefresh": {
-    "at": "2026-08-27T20:35:27.596Z"
+    "at": "2026-09-15T15:22:34.682Z"
   },
   "videos": [
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7678126804413992206",
+      "url": "https://www.tiktok.com/@freewillridez/video/7685460250111134989",
+      "date": "2026-09-14",
+      "views": 430,
+      "note": "Michigan our next group ride is September 26 6 PM 65 East Hur…"
+    },
+    {
+      "url": "https://www.tiktok.com/@freewillridez/video/7685215387402669326",
+      "date": "2026-09-14",
+      "views": 4851,
+      "note": "FREEWILLRIDEZ DETROITS GROUP RIDE !!!"
+    },
+    {
+      "url": "https://www.tiktok.com/@freewillridez/video/7683231530944122125",
+      "date": "2026-09-08",
+      "views": 579,
+      "note": "Somewhere up north"
+    },
+    {
+      "url": "https://www.tiktok.com/@freewillridez/video/7681756657210150158",
+      "date": "2026-09-04",
+      "views": 646,
+      "note": "“I’ll finish what you started”"
+    },
+    {
+      "url": "https://www.tiktok.com/@freewillridez/video/7681463060522896653",
+      "date": "2026-09-03",
+      "views": 4138,
+      "note": "Freewillridez.com is live !!!!If you’re looking for any type…"
+    },
+    {
+      "url": "https://www.tiktok.com/@freewillridez/video/7681397384793918733",
+      "date": "2026-09-03",
+      "views": 346,
+      "note": "Freewillridez keeps growing and growing last Saturday was a b…"
+    },
+    {
+      "url": "https://www.tiktok.com/@freewillridez/video/7679917997506546957",
+      "date": "2026-08-30",
+      "views": 513,
+      "note": "Freewillridez next event is September 13 2 PM Pontiac, Michigan"
+    },
+    {
+      "url": "https://www.tiktok.com/@freewillridez/video/7679884634880052494",
+      "date": "2026-08-30",
+      "views": 566,
+      "note": "Great turn out today!!!! Check out freewillridez.com"
+    },
+    {
+      "url": "https://www.tiktok.com/@freewillridez/video/7678126804413992206",
       "date": "2026-08-26",
-      "views": 427,
+      "views": 555,
       "note": "Go check out freewillridez.com for your boy"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7677978225737354510",
+      "url": "https://www.tiktok.com/@freewillridez/video/7677978225737354510",
       "date": "2026-08-25",
-      "views": 756,
+      "views": 1105,
       "note": "Michigan!!! our next group ride is this Saturday at 2 PM in P…"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7675043265439108365",
+      "url": "https://www.tiktok.com/@freewillridez/video/7675043265439108365",
       "date": "2026-08-17",
       "views": 239,
       "note": "FREEWILLRIDEZ NEXT GROUP RIDE IS IN PONTIAC, MICHIGAN, AUGUST..."
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7674680677144612109",
+      "url": "https://www.tiktok.com/@freewillridez/video/7674680677144612109",
       "date": "2026-08-16",
       "views": 703,
       "note": "Michigan have you not heard of the FREEWILRIDEZ GROUP RIDEZ Y..."
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7672637865662139661",
+      "url": "https://www.tiktok.com/@freewillridez/video/7672637865662139661",
       "date": "2026-08-11",
       "views": 662,
       "note": "Joy riding, I mean test driving a dealership 2025 zx10r maybe..."
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7671028796803452173",
+      "url": "https://www.tiktok.com/@freewillridez/video/7671028796803452173",
       "date": "2026-08-06",
       "views": 1390,
       "note": "The day that haunts me !!"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7668160214062927118",
+      "url": "https://www.tiktok.com/@freewillridez/video/7668160214062927118",
       "date": "2026-07-30",
       "views": 816,
       "note": "Love me while I’m here"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7667704540426210573",
+      "url": "https://www.tiktok.com/@freewillridez/video/7667704540426210573",
       "date": "2026-07-28",
       "views": 818,
       "note": "You can say what you want about our group rides, but they're..."
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7664982909228453134",
+      "url": "https://www.tiktok.com/@freewillridez/video/7664982909228453134",
       "date": "2026-07-21",
       "views": 6913,
       "note": "Freewillridez group rides our next one in August 29th Pontiac..."
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7662221007318535438",
+      "url": "https://www.tiktok.com/@freewillridez/video/7662221007318535438",
       "date": "2026-07-14",
       "views": 1557,
       "note": "You ever feel like you in a video game"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7653886864226618637",
+      "url": "https://www.tiktok.com/@freewillridez/video/7653886864226618637",
       "date": "2026-06-21",
       "views": 1981,
       "note": "New tshirt iv dropped at our last ride out a few tshirt left..."
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7652963963193314574",
+      "url": "https://www.tiktok.com/@freewillridez/video/7652963963193314574",
       "date": "2026-06-19",
       "views": 5441,
       "note": "(Isaiah 40:11)"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7652230978059930893",
+      "url": "https://www.tiktok.com/@freewillridez/video/7652230978059930893",
       "date": "2026-06-17",
       "views": 4381,
       "note": "Group rides I’ll forever love"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7651708910566493453",
+      "url": "https://www.tiktok.com/@freewillridez/video/7651708910566493453",
       "date": "2026-06-15",
       "views": 7186,
       "note": "Pigeon Forge our group ride is coming your way at the end of…"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7651093667817606414",
+      "url": "https://www.tiktok.com/@freewillridez/video/7651093667817606414",
       "date": "2026-06-14",
       "views": 690300,
       "note": "When life flashes before your eyes"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7651371782414322958",
+      "url": "https://www.tiktok.com/@freewillridez/video/7651371782414322958",
       "date": "2026-06-14",
       "views": 28400,
       "note": "You not showing off for your girl around these parts"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7648860977617833229",
+      "url": "https://www.tiktok.com/@freewillridez/video/7648860977617833229",
       "date": "2026-06-08",
       "views": 32600,
       "note": "Time to skedaddle 😂😂"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7647372793507630349",
+      "url": "https://www.tiktok.com/@freewillridez/video/7647372793507630349",
       "date": "2026-06-04",
       "views": 6917,
       "note": "It’s not a ak47 driving by your house it’s me 😆😆"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7644777713273769229",
+      "url": "https://www.tiktok.com/@freewillridez/video/7644777713273769229",
       "date": "2026-05-28",
       "views": 4047,
       "note": "Myrtle beach bike weekend ✅"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7644408034877377806",
+      "url": "https://www.tiktok.com/@freewillridez/video/7644408034877377806",
       "date": "2026-05-27",
       "views": 3025,
       "note": "Summertime happiness"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7643708180190563597",
+      "url": "https://www.tiktok.com/@freewillridez/video/7643708180190563597",
       "date": "2026-05-25",
       "views": 2951,
       "note": "Hosting a group ride in the rain bad idea or good idea ?"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7643708667354828046",
+      "url": "https://www.tiktok.com/@freewillridez/video/7643708667354828046",
       "date": "2026-05-25",
       "views": 1901,
       "note": "Need a new tire anyways lol"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7642805858149174541",
+      "url": "https://www.tiktok.com/@freewillridez/video/7642805858149174541",
       "date": "2026-05-22",
       "views": 2199,
       "note": "When will these silly cars learn"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7642132928230722829",
+      "url": "https://www.tiktok.com/@freewillridez/video/7642132928230722829",
       "date": "2026-05-21",
       "views": 1924,
       "note": "What it’s like to eat 5 GUM or something like that"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7641804417355861261",
+      "url": "https://www.tiktok.com/@freewillridez/video/7641804417355861261",
       "date": "2026-05-20",
       "views": 1702,
       "note": "Myrtle beach group ride ✅"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7641986085945429261",
+      "url": "https://www.tiktok.com/@freewillridez/video/7641986085945429261",
       "date": "2026-05-20",
       "views": 1557,
       "note": "Nothing matters when I’m with you"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7641718130011540749",
+      "url": "https://www.tiktok.com/@freewillridez/video/7641718130011540749",
       "date": "2026-05-19",
       "views": 1378,
       "note": "Myrtle beach was fun now back to the grind🥲🥲."
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7633284709732191501",
+      "url": "https://www.tiktok.com/@freewillridez/video/7633284709732191501",
       "date": "2026-04-27",
       "views": 532,
       "note": "When the time comes just know we had our fun."
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7633184807291211022",
+      "url": "https://www.tiktok.com/@freewillridez/video/7633184807291211022",
       "date": "2026-04-26",
       "views": 1634,
       "note": "When the homies pista ain’t pista’ing"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7632892650571517198",
+      "url": "https://www.tiktok.com/@freewillridez/video/7632892650571517198",
       "date": "2026-04-26",
       "views": 937,
       "note": "Michigan if you have not attended our Freewillridez group rid…"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7632205740731567374",
+      "url": "https://www.tiktok.com/@freewillridez/video/7632205740731567374",
       "date": "2026-04-24",
       "views": 801,
       "note": "Bike night in Detroit hits"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7630566694032772365",
+      "url": "https://www.tiktok.com/@freewillridez/video/7630566694032772365",
       "date": "2026-04-19",
       "views": 1411,
       "note": "POV angle soon 🥵"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7615463520880168205",
+      "url": "https://www.tiktok.com/@freewillridez/video/7615463520880168205",
       "date": "2026-03-10",
       "views": 658,
       "note": "The Switch up"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7610199440497855757",
+      "url": "https://www.tiktok.com/@freewillridez/video/7610199440497855757",
       "date": "2026-02-23",
       "views": 422,
       "note": "WE GOT BIGGER AND BIGGER LAST YEAR AND WE’RE NOT STOPPING UNT…"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7577868199249694007",
+      "url": "https://www.tiktok.com/@freewillridez/video/7577868199249694007",
       "date": "2025-11-28",
       "views": 1741,
       "note": "Well 2 is better then 1 bought another 1k 🫶🏻🫶🏻"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7572779713324764471",
+      "url": "https://www.tiktok.com/@freewillridez/video/7572779713324764471",
       "date": "2025-11-15",
       "views": 1351,
       "note": "Volume.4 just dropped “living ghost” reach out if you want on…"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7570583610781125943",
+      "url": "https://www.tiktok.com/@freewillridez/video/7570583610781125943",
       "date": "2025-11-09",
       "views": 492,
       "note": "Forever scoring"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7567087645541551373",
+      "url": "https://www.tiktok.com/@freewillridez/video/7567087645541551373",
       "date": "2025-10-30",
       "views": 1034,
       "note": "Freewillridez !!!! I appreciate you guys so much allowing me…"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7565955804709375287",
+      "url": "https://www.tiktok.com/@freewillridez/video/7565955804709375287",
       "date": "2025-10-27",
       "views": 338,
       "note": "Michigan is FREEWILLRIDEZ a house hold name ?!?"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7564866388314066231",
+      "url": "https://www.tiktok.com/@freewillridez/video/7564866388314066231",
       "date": "2025-10-24",
       "views": 2369,
       "note": "No music needed just 1k"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7560459998636150071",
+      "url": "https://www.tiktok.com/@freewillridez/video/7560459998636150071",
       "date": "2025-10-12",
       "views": 1394,
       "note": "Freewillridez vol.3 love my Michigan bike community!!!"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7557783818132901175",
+      "url": "https://www.tiktok.com/@freewillridez/video/7557783818132901175",
       "date": "2025-10-05",
-      "views": 4724,
+      "views": 4783,
       "note": "Vol. hoodies dropped last week!! 40/40 sold !! I host local b..."
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7557778349830016269",
+      "url": "https://www.tiktok.com/@freewillridez/video/7557778349830016269",
       "date": "2025-10-05",
       "views": 743,
       "note": "GQ GQ GQ"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7557156719940455735",
+      "url": "https://www.tiktok.com/@freewillridez/video/7557156719940455735",
       "date": "2025-10-04",
       "views": 744,
       "note": "V10 m5 does get any better"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7557258496123718926",
+      "url": "https://www.tiktok.com/@freewillridez/video/7557258496123718926",
       "date": "2025-10-04",
       "views": 435,
       "note": "Just me and happiness"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7557091385803918605",
+      "url": "https://www.tiktok.com/@freewillridez/video/7557091385803918605",
       "date": "2025-10-03",
       "views": 5239,
       "note": "My first ever hoodie drop 9/13/25 (vol.1 murder mitten )it we..."
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7557085968155594039",
+      "url": "https://www.tiktok.com/@freewillridez/video/7557085968155594039",
       "date": "2025-10-03",
       "views": 608,
       "note": "Dream big kid 🗣️🗣️🐬"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7556520813122407735",
+      "url": "https://www.tiktok.com/@freewillridez/video/7556520813122407735",
       "date": "2025-10-02",
       "views": 1576,
       "note": "Till death do us part"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7556518170463358263",
+      "url": "https://www.tiktok.com/@freewillridez/video/7556518170463358263",
       "date": "2025-10-02",
       "views": 2094,
       "note": "Freewillridez x6"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7556519791356366093",
+      "url": "https://www.tiktok.com/@freewillridez/video/7556519791356366093",
       "date": "2025-10-02",
       "views": 1717,
       "note": "Freewillridez x1"
     },
     {
-      "url": "https://www.tiktok.com/@freewillflow/video/7556523396775841038",
+      "url": "https://www.tiktok.com/@freewillridez/video/7556523396775841038",
       "date": "2025-10-02",
       "views": 393,
       "note": "Michigan bike community 🤌🏼🤌🏼"
