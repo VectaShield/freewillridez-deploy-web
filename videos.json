@@ -11,19 +11,19 @@
   ],
   "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
   "_lastRefresh": {
-    "at": "2026-09-15T15:22:34.682Z"
+    "at": "2026-09-15T21:28:36.140Z"
   },
   "videos": [
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7685460250111134989",
       "date": "2026-09-14",
-      "views": 430,
+      "views": 457,
       "note": "Michigan our next group ride is September 26 6 PM 65 East Hur…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7685215387402669326",
       "date": "2026-09-14",
-      "views": 4851,
+      "views": 5049,
       "note": "FREEWILLRIDEZ DETROITS GROUP RIDE !!!"
     },
     {
@@ -35,25 +35,25 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7681756657210150158",
       "date": "2026-09-04",
-      "views": 646,
+      "views": 647,
       "note": "“I’ll finish what you started”"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7681463060522896653",
       "date": "2026-09-03",
-      "views": 4138,
+      "views": 4139,
       "note": "Freewillridez.com is live !!!!If you’re looking for any type…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7681397384793918733",
       "date": "2026-09-03",
-      "views": 346,
+      "views": 348,
       "note": "Freewillridez keeps growing and growing last Saturday was a b…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7679917997506546957",
       "date": "2026-08-30",
-      "views": 513,
+      "views": 514,
       "note": "Freewillridez next event is September 13 2 PM Pontiac, Michigan"
     },
     {
@@ -71,7 +71,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7677978225737354510",
       "date": "2026-08-25",
-      "views": 1105,
+      "views": 1108,
       "note": "Michigan!!! our next group ride is this Saturday at 2 PM in P…"
     },
     {
@@ -311,7 +311,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7557783818132901175",
       "date": "2025-10-05",
-      "views": 4783,
+      "views": 4786,
       "note": "Vol. hoodies dropped last week!! 40/40 sold !! I host local b..."
     },
     {
