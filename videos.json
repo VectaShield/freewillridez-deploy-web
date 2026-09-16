@@ -11,25 +11,25 @@
   ],
   "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
   "_lastRefresh": {
-    "at": "2026-09-16T06:08:27.528Z"
+    "at": "2026-09-16T17:06:56.625Z"
   },
   "videos": [
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7685460250111134989",
       "date": "2026-09-14",
-      "views": 486,
+      "views": 510,
       "note": "Michigan our next group ride is September 26 6 PM 65 East Hur…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7685215387402669326",
       "date": "2026-09-14",
-      "views": 5237,
+      "views": 5337,
       "note": "FREEWILLRIDEZ DETROITS GROUP RIDE !!!"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7683231530944122125",
       "date": "2026-09-08",
-      "views": 582,
+      "views": 583,
       "note": "Somewhere up north"
     },
     {
@@ -59,19 +59,19 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7679884634880052494",
       "date": "2026-08-30",
-      "views": 570,
+      "views": 572,
       "note": "Great turn out today!!!! Check out freewillridez.com"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7678126804413992206",
       "date": "2026-08-26",
-      "views": 557,
+      "views": 559,
       "note": "Go check out freewillridez.com for your boy"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7677978225737354510",
       "date": "2026-08-25",
-      "views": 1114,
+      "views": 1119,
       "note": "Michigan!!! our next group ride is this Saturday at 2 PM in P…"
     },
     {
@@ -311,7 +311,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7557783818132901175",
       "date": "2025-10-05",
-      "views": 4788,
+      "views": 4790,
       "note": "Vol. hoodies dropped last week!! 40/40 sold !! I host local b..."
     },
     {
