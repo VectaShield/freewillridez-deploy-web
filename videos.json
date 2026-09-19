@@ -11,67 +11,67 @@
   ],
   "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
   "_lastRefresh": {
-    "at": "2026-09-18T22:39:22.540Z"
+    "at": "2026-09-19T05:59:30.332Z"
   },
   "videos": [
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7686718402823507213",
       "date": "2026-09-18",
-      "views": 456,
+      "views": 480,
       "note": "Me & pops going out for a ride"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7686185634641317133",
       "date": "2026-09-16",
-      "views": 609,
+      "views": 635,
       "note": "Freewillridez over the last 2 and half years has came down fa…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7685460250111134989",
       "date": "2026-09-14",
-      "views": 619,
+      "views": 635,
       "note": "Michigan our next group ride is September 26 6 PM 65 East Hur…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7685215387402669326",
       "date": "2026-09-14",
-      "views": 5785,
+      "views": 5857,
       "note": "FREEWILLRIDEZ DETROITS GROUP RIDE !!!"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7683231530944122125",
       "date": "2026-09-08",
-      "views": 605,
+      "views": 606,
       "note": "Somewhere up north"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7681756657210150158",
       "date": "2026-09-04",
-      "views": 666,
+      "views": 668,
       "note": "“I’ll finish what you started”"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7681463060522896653",
       "date": "2026-09-03",
-      "views": 4149,
+      "views": 4150,
       "note": "Freewillridez.com is live !!!!If you’re looking for any type…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7681397384793918733",
       "date": "2026-09-03",
-      "views": 367,
+      "views": 370,
       "note": "Freewillridez keeps growing and growing last Saturday was a b…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7679917997506546957",
       "date": "2026-08-30",
-      "views": 532,
+      "views": 534,
       "note": "Freewillridez next event is September 13 2 PM Pontiac, Michigan"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7679884634880052494",
       "date": "2026-08-30",
-      "views": 585,
+      "views": 587,
       "note": "Great turn out today!!!! Check out freewillridez.com"
     },
     {
@@ -323,7 +323,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7557783818132901175",
       "date": "2025-10-05",
-      "views": 4799,
+      "views": 4802,
       "note": "Vol. hoodies dropped last week!! 40/40 sold !! I host local b..."
     },
     {
