@@ -11,25 +11,31 @@
   ],
   "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
   "_lastRefresh": {
-    "at": "2026-09-24T15:14:08.334Z"
+    "at": "2026-09-24T22:29:55.940Z"
   },
   "videos": [
     {
+      "url": "https://www.tiktok.com/@freewillridez/video/7689197725908274445",
+      "date": "2026-09-24",
+      "views": 176,
+      "note": "Cruising around with the homie"
+    },
+    {
       "url": "https://www.tiktok.com/@freewillridez/video/7688493334481931533",
       "date": "2026-09-22",
-      "views": 403,
+      "views": 407,
       "note": "I’ve been in the car community for a very long time and unfor…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7688043210970647821",
       "date": "2026-09-21",
-      "views": 492,
+      "views": 499,
       "note": "Gixxxy and THE H2 leaving 📸 🏴‍☠️"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7687674599059754254",
       "date": "2026-09-20",
-      "views": 430,
+      "views": 434,
       "note": "appreciate you having me fun times with my people !!! 🏴‍☠️ H2"
     },
     {
@@ -41,25 +47,25 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7686718402823507213",
       "date": "2026-09-18",
-      "views": 625,
+      "views": 660,
       "note": "Me & pops going out for a ride"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7686185634641317133",
       "date": "2026-09-16",
-      "views": 794,
+      "views": 803,
       "note": "Freewillridez over the last 2 and half years has came down fa…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7685460250111134989",
       "date": "2026-09-14",
-      "views": 775,
+      "views": 784,
       "note": "Michigan our next group ride is September 26 6 PM 65 East Hur…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7685215387402669326",
       "date": "2026-09-14",
-      "views": 6399,
+      "views": 6425,
       "note": "FREEWILLRIDEZ DETROITS GROUP RIDE !!!"
     },
     {
@@ -71,13 +77,13 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7681756657210150158",
       "date": "2026-09-04",
-      "views": 693,
+      "views": 694,
       "note": "“I’ll finish what you started”"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7681463060522896653",
       "date": "2026-09-03",
-      "views": 4171,
+      "views": 4172,
       "note": "Freewillridez.com is live !!!!If you’re looking for any type…"
     },
     {
@@ -347,7 +353,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7557783818132901175",
       "date": "2025-10-05",
-      "views": 4821,
+      "views": 4826,
       "note": "Vol. hoodies dropped last week!! 40/40 sold !! I host local b..."
     },
     {
