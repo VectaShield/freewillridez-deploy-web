@@ -11,43 +11,49 @@
   ],
   "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
   "_lastRefresh": {
-    "at": "2026-10-01T13:30:14.732Z"
+    "at": "2026-10-01T19:36:55.470Z"
   },
   "videos": [
     {
+      "url": "https://www.tiktok.com/@freewillridez/video/7691707984283553038",
+      "date": "2026-10-01",
+      "views": 161,
+      "note": "When I die, just remember what I did in this community"
+    },
+    {
       "url": "https://www.tiktok.com/@freewillridez/video/7690726255653621005",
       "date": "2026-09-28",
-      "views": 905,
+      "views": 1003,
       "note": "Michigans group ridez join the fb group freewillridez to stay…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7690641018001100045",
       "date": "2026-09-28",
-      "views": 521,
+      "views": 527,
       "note": "The real ultimate driving machine"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7690590434128563470",
       "date": "2026-09-28",
-      "views": 545,
+      "views": 554,
       "note": "Started from the bottom honestly 2 years later look where we…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7690241256068238605",
       "date": "2026-09-27",
-      "views": 759,
+      "views": 765,
       "note": "Yall still don’t believe we run Michigan yet"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7689685165295013134",
       "date": "2026-09-26",
-      "views": 655,
+      "views": 671,
       "note": "Freewillridez.com go check it out we host group ridez in Mich…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7689568736084315405",
       "date": "2026-09-25",
-      "views": 5911,
+      "views": 6013,
       "note": "We are Michigan !!! Michigan group ride freewillridez !!! Tmw…"
     },
     {
@@ -59,19 +65,19 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7688493334481931533",
       "date": "2026-09-22",
-      "views": 609,
+      "views": 612,
       "note": "I’ve been in the car community for a very long time and unfor…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7688043210970647821",
       "date": "2026-09-21",
-      "views": 643,
+      "views": 644,
       "note": "Gixxxy and THE H2 leaving 📸 🏴‍☠️"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7687674599059754254",
       "date": "2026-09-20",
-      "views": 527,
+      "views": 528,
       "note": "appreciate you having me fun times with my people !!! 🏴‍☠️ H2"
     },
     {
@@ -119,7 +125,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7681463060522896653",
       "date": "2026-09-03",
-      "views": 4255,
+      "views": 4256,
       "note": "Freewillridez.com is live !!!!If you’re looking for any type…"
     },
     {
