@@ -11,25 +11,25 @@
   ],
   "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
   "_lastRefresh": {
-    "at": "2026-10-10T07:15:26.797Z"
+    "at": "2026-10-10T13:49:52.552Z"
   },
   "videos": [
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7694829560801529101",
       "date": "2026-10-10",
-      "views": 299,
+      "views": 310,
       "note": "Fully carbon looks like a praying mantis what does it look li…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7693387596965203214",
       "date": "2026-10-06",
-      "views": 700,
+      "views": 706,
       "note": "Freewill you wouldn’t understand you still think we’re riding…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7693233042827037965",
       "date": "2026-10-05",
-      "views": 567,
+      "views": 569,
       "note": "Gsxr or h2 ?"
     },
     {
@@ -41,7 +41,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7692288918758231310",
       "date": "2026-10-03",
-      "views": 1483,
+      "views": 1486,
       "note": "Don’t miss this Michigan !!!! Wear a costume and come ride 10…"
     },
     {
@@ -53,7 +53,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7690726255653621005",
       "date": "2026-09-28",
-      "views": 3591,
+      "views": 3627,
       "note": "Michigans group ridez join the fb group freewillridez to stay…"
     },
     {
@@ -425,7 +425,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7557783818132901175",
       "date": "2025-10-05",
-      "views": 4995,
+      "views": 4996,
       "note": "Vol. hoodies dropped last week!! 40/40 sold !! I host local b..."
     },
     {
