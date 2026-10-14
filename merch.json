@@ -14,18 +14,18 @@
   "store": "https://freewillridez.store",
   "items": [
     {
-      "id": "box-logo-michigan-central",
-      "title": "Michigan Central Box Logo *SOLD OUT*",
-      "url": "https://freewillridez.store/products/box-logo-michigan-central",
-      "image": "merch/box-logo-michigan-central.webp",
-      "price": "90.00"
+      "id": "modern-day-superheroes",
+      "title": "Modern Day Superheroes",
+      "url": "https://freewillridez.store/products/modern-day-superheroes",
+      "image": "merch/modern-day-superheroes.webp",
+      "price": "50.00"
     },
     {
-      "id": "fwr-brake-caliper-piston-pushback-pliers",
-      "title": "FWR BRAKE CALIPER PISTON PUSHBACK PLIERS",
-      "url": "https://freewillridez.store/products/fwr-brake-caliper-piston-pushback-pliers",
-      "image": "merch/fwr-brake-caliper-piston-pushback-pliers.webp",
-      "price": "28.00"
+      "id": "cold-night",
+      "title": "Cold Night",
+      "url": "https://freewillridez.store/products/cold-night",
+      "image": "merch/cold-night.webp",
+      "price": "90.00"
     }
   ]
 }
