@@ -14,18 +14,18 @@
   "store": "https://freewillridez.store",
   "items": [
     {
+      "id": "vol-2-till-death-do-us-part-olive-green-release",
+      "title": "Vol.2 till death do us part (OLIVE GREEN RELEASE)",
+      "url": "https://freewillridez.store/products/vol-2-till-death-do-us-part-olive-green-release",
+      "image": "merch/vol-2-till-death-do-us-part-olive-green-release.webp",
+      "price": "90.00"
+    },
+    {
       "id": "modern-day-superheroes",
       "title": "Modern Day Superheroes",
       "url": "https://freewillridez.store/products/modern-day-superheroes",
       "image": "merch/modern-day-superheroes.webp",
       "price": "50.00"
-    },
-    {
-      "id": "cold-night",
-      "title": "Cold Night",
-      "url": "https://freewillridez.store/products/cold-night",
-      "image": "merch/cold-night.webp",
-      "price": "90.00"
     }
   ]
 }
