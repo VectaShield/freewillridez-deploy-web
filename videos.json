@@ -11,25 +11,31 @@
   ],
   "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
   "_lastRefresh": {
-    "at": "2026-10-14T18:43:02.762Z"
+    "at": "2026-10-14T22:22:00.123Z"
   },
   "videos": [
     {
+      "url": "https://www.tiktok.com/@freewillridez/video/7696625659879230734",
+      "date": "2026-10-14",
+      "views": 297,
+      "note": "0/100 real quick"
+    },
+    {
       "url": "https://www.tiktok.com/@freewillridez/video/7696584440163634446",
       "date": "2026-10-14",
-      "views": 139,
+      "views": 319,
       "note": "Gsxr boy doing gsxr things"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7695150574475529485",
       "date": "2026-10-10",
-      "views": 679,
+      "views": 686,
       "note": "Next Saturday we have our season closer !!! 10/17 65 east Hur…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7694829560801529101",
       "date": "2026-10-10",
-      "views": 446,
+      "views": 450,
       "note": "Fully carbon looks like a praying mantis what does it look li…"
     },
     {
@@ -41,37 +47,37 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7693387596965203214",
       "date": "2026-10-06",
-      "views": 872,
+      "views": 881,
       "note": "Freewill you wouldn’t understand you still think we’re riding…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7693233042827037965",
       "date": "2026-10-05",
-      "views": 633,
+      "views": 637,
       "note": "Gsxr or h2 ?"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7692889116127530254",
       "date": "2026-10-04",
-      "views": 487,
+      "views": 490,
       "note": "We the people シ"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7692288918758231310",
       "date": "2026-10-03",
-      "views": 1619,
+      "views": 1621,
       "note": "Don’t miss this Michigan !!!! Wear a costume and come ride 10…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7691707984283553038",
       "date": "2026-10-01",
-      "views": 457,
+      "views": 458,
       "note": "When I die, just remember what I did in this community"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7690726255653621005",
       "date": "2026-09-28",
-      "views": 4743,
+      "views": 4830,
       "note": "Michigans group ridez join the fb group freewillridez to stay…"
     },
     {
@@ -443,7 +449,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7557783818132901175",
       "date": "2025-10-05",
-      "views": 5026,
+      "views": 5028,
       "note": "Vol. hoodies dropped last week!! 40/40 sold !! I host local b..."
     },
     {
