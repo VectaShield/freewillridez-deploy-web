@@ -11,13 +11,13 @@
   ],
   "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
   "_lastRefresh": {
-    "at": "2026-10-22T07:43:21.578Z"
+    "at": "2026-10-22T13:53:58.845Z"
   },
   "videos": [
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7698923335912099086",
       "date": "2026-10-21",
-      "views": 499,
+      "views": 513,
       "note": "honestly hate it or love it we still gonna ride 🤣🤣"
     },
     {
@@ -29,7 +29,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7698446118602001678",
       "date": "2026-10-19",
-      "views": 6718,
+      "views": 6719,
       "note": "Sunday we ride !!!! I know our season closer was last Saturda…"
     },
     {
@@ -41,13 +41,13 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7698063641962155278",
       "date": "2026-10-18",
-      "views": 693,
+      "views": 697,
       "note": "Freewillridez season 2 has came to a end i appreciate every o…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7696625659879230734",
       "date": "2026-10-14",
-      "views": 865,
+      "views": 866,
       "note": "0/100 real quick"
     },
     {
@@ -77,13 +77,13 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7693387596965203214",
       "date": "2026-10-06",
-      "views": 1159,
+      "views": 1160,
       "note": "Freewill you wouldn’t understand you still think we’re riding…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7693233042827037965",
       "date": "2026-10-05",
-      "views": 710,
+      "views": 711,
       "note": "Gsxr or h2 ?"
     },
     {
@@ -479,7 +479,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7557783818132901175",
       "date": "2025-10-05",
-      "views": 5086,
+      "views": 5087,
       "note": "Vol. hoodies dropped last week!! 40/40 sold !! I host local b..."
     },
     {
