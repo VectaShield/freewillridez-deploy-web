@@ -11,13 +11,19 @@
   ],
   "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
   "_lastRefresh": {
-    "at": "2026-10-22T13:53:58.845Z"
+    "at": "2026-10-22T18:37:52.276Z"
   },
   "videos": [
     {
+      "url": "https://www.tiktok.com/@freewillridez/video/7699552462696353037",
+      "date": "2026-10-22",
+      "views": 93,
+      "note": "Michigan we ride on last time this Sunday 10/25 12pm and shar…"
+    },
+    {
       "url": "https://www.tiktok.com/@freewillridez/video/7698923335912099086",
       "date": "2026-10-21",
-      "views": 513,
+      "views": 524,
       "note": "honestly hate it or love it we still gonna ride 🤣🤣"
     },
     {
@@ -29,7 +35,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7698446118602001678",
       "date": "2026-10-19",
-      "views": 6719,
+      "views": 6720,
       "note": "Sunday we ride !!!! I know our season closer was last Saturda…"
     },
     {
@@ -41,7 +47,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7698063641962155278",
       "date": "2026-10-18",
-      "views": 697,
+      "views": 704,
       "note": "Freewillridez season 2 has came to a end i appreciate every o…"
     },
     {
