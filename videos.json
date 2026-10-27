@@ -11,37 +11,37 @@
   ],
   "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
   "_lastRefresh": {
-    "at": "2026-10-26T23:56:26.127Z"
+    "at": "2026-10-27T10:40:59.692Z"
   },
   "videos": [
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7701079706480725261",
       "date": "2026-10-26",
-      "views": 489,
+      "views": 865,
       "note": "Freewillridez group ridez Facebook group join it !!!!"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7701004627021401357",
       "date": "2026-10-26",
-      "views": 298,
+      "views": 388,
       "note": "10/25 group ride !!! do you know how many damn walk-throughs…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7699918520020241677",
       "date": "2026-10-23",
-      "views": 393,
+      "views": 396,
       "note": "Does it get better then a death missile ummmm NO"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7699552462696353037",
       "date": "2026-10-22",
-      "views": 478,
+      "views": 483,
       "note": "Michigan we ride on last time this Sunday 10/25 12pm and shar…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7698923335912099086",
       "date": "2026-10-21",
-      "views": 649,
+      "views": 652,
       "note": "honestly hate it or love it we still gonna ride 🤣🤣"
     },
     {
@@ -53,19 +53,19 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7698446118602001678",
       "date": "2026-10-19",
-      "views": 6773,
+      "views": 6774,
       "note": "Sunday we ride !!!! I know our season closer was last Saturda…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7698081643524885774",
       "date": "2026-10-18",
-      "views": 585,
+      "views": 587,
       "note": "Freewillridez.com"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7698063641962155278",
       "date": "2026-10-18",
-      "views": 807,
+      "views": 812,
       "note": "Freewillridez season 2 has came to a end i appreciate every o…"
     },
     {
@@ -503,7 +503,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7557783818132901175",
       "date": "2025-10-05",
-      "views": 5109,
+      "views": 5113,
       "note": "Vol. hoodies dropped last week!! 40/40 sold !! I host local b..."
     },
     {
