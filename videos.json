@@ -11,13 +11,13 @@
   ],
   "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
   "_lastRefresh": {
-    "at": "2026-11-04T07:33:48.322Z"
+    "at": "2026-11-04T16:24:23.720Z"
   },
   "videos": [
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7703264272737963277",
       "date": "2026-11-01",
-      "views": 9454,
+      "views": 9477,
       "note": "Michigan lets ride one last time this season !!!! Tuesday Nov…"
     },
     {
@@ -29,37 +29,37 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7701414634246458637",
       "date": "2026-10-27",
-      "views": 884,
+      "views": 893,
       "note": "Give props to bro when he does wild shit"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": 615,
+      "views": 622,
       "note": "Some ones gotta play the role"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7701079706480725261",
       "date": "2026-10-26",
-      "views": 1273,
+      "views": 1282,
       "note": "Freewillridez group ridez Facebook group join it !!!!"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7701004627021401357",
       "date": "2026-10-26",
-      "views": 639,
+      "views": 644,
       "note": "10/25 group ride !!! do you know how many damn walk-throughs…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7699918520020241677",
       "date": "2026-10-23",
-      "views": 501,
+      "views": 503,
       "note": "Does it get better then a death missile ummmm NO"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7699552462696353037",
       "date": "2026-10-22",
-      "views": 556,
+      "views": 557,
       "note": "Michigan we ride on last time this Sunday 10/25 12pm and shar…"
     },
     {
@@ -257,7 +257,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7681463060522896653",
       "date": "2026-09-03",
-      "views": 4428,
+      "views": 4432,
       "note": "Freewillridez.com is live !!!!If you’re looking for any type…"
     },
     {
