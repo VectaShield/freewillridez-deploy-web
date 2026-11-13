@@ -11,31 +11,31 @@
   ],
   "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
   "_lastRefresh": {
-    "at": "2026-11-13T09:42:34.264Z"
+    "at": "2026-11-13T17:52:00.734Z"
   },
   "videos": [
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7704885188924427533",
       "date": "2026-11-06",
-      "views": 1004,
+      "views": 1012,
       "note": "Minds on other things my bad I missed the shift"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7704745796700245262",
       "date": "2026-11-05",
-      "views": 1121,
+      "views": 1129,
       "note": "Imagine living in Michigan, and not being a part of this free…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7704394831698742542",
       "date": "2026-11-04",
-      "views": 1321,
+      "views": 1325,
       "note": "Random Tuesday with the gang"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7704394539674455309",
       "date": "2026-11-04",
-      "views": 1634,
+      "views": 1662,
       "note": "Random Tuesday in Michigan 😈"
     },
     {
@@ -53,19 +53,19 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7701414634246458637",
       "date": "2026-10-27",
-      "views": 1037,
+      "views": 1038,
       "note": "Give props to bro when he does wild shit"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": 731,
+      "views": 732,
       "note": "Some ones gotta play the role"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7701079706480725261",
       "date": "2026-10-26",
-      "views": 1657,
+      "views": 1666,
       "note": "Freewillridez group ridez Facebook group join it !!!!"
     },
     {
@@ -281,7 +281,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7681463060522896653",
       "date": "2026-09-03",
-      "views": 4487,
+      "views": 4489,
       "note": "Freewillridez.com is live !!!!If you’re looking for any type…"
     },
     {
