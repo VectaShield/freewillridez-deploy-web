@@ -11,19 +11,19 @@
   ],
   "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
   "_lastRefresh": {
-    "at": "2026-11-25T05:29:08.686Z"
+    "at": "2026-11-25T17:24:10.647Z"
   },
   "videos": [
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7711820980766739726",
       "date": "2026-11-24",
-      "views": 188,
+      "views": 262,
       "note": "No words left Michigan don’t miss these next year !!! Join ou…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7711786540761926925",
       "date": "2026-11-24",
-      "views": 468,
+      "views": 524,
       "note": "Freewillridez always on my mind"
     },
     {
@@ -35,25 +35,25 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7704885188924427533",
       "date": "2026-11-06",
-      "views": 1221,
+      "views": 1224,
       "note": "Minds on other things my bad I missed the shift"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7704745796700245262",
       "date": "2026-11-05",
-      "views": 1362,
+      "views": 1363,
       "note": "Imagine living in Michigan, and not being a part of this free…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7704394831698742542",
       "date": "2026-11-04",
-      "views": 1625,
+      "views": 1632,
       "note": "Random Tuesday with the gang"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7704394539674455309",
       "date": "2026-11-04",
-      "views": 2509,
+      "views": 2545,
       "note": "Random Tuesday in Michigan 😈"
     },
     {
@@ -77,7 +77,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": 780,
+      "views": 781,
       "note": "Some ones gotta play the role"
     },
     {
@@ -299,7 +299,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7681463060522896653",
       "date": "2026-09-03",
-      "views": 4522,
+      "views": 4524,
       "note": "Freewillridez.com is live !!!!If you’re looking for any type…"
     },
     {
