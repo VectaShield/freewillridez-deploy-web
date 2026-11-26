@@ -11,19 +11,19 @@
   ],
   "_auto": "Auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\" is re-pulled from TikTok (monotonic: never decreases). New/removed videos ship immediately; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write.",
   "_lastRefresh": {
-    "at": "2026-11-26T01:49:58.530Z"
+    "at": "2026-11-26T11:03:17.173Z"
   },
   "videos": [
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7711820980766739726",
       "date": "2026-11-24",
-      "views": 296,
+      "views": 318,
       "note": "No words left Michigan don’t miss these next year !!! Join ou…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7711786540761926925",
       "date": "2026-11-24",
-      "views": 569,
+      "views": 603,
       "note": "Freewillridez always on my mind"
     },
     {
@@ -35,25 +35,25 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7704885188924427533",
       "date": "2026-11-06",
-      "views": 1227,
+      "views": 1228,
       "note": "Minds on other things my bad I missed the shift"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7704745796700245262",
       "date": "2026-11-05",
-      "views": 1375,
+      "views": 1395,
       "note": "Imagine living in Michigan, and not being a part of this free…"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7704394831698742542",
       "date": "2026-11-04",
-      "views": 1640,
+      "views": 1647,
       "note": "Random Tuesday with the gang"
     },
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7704394539674455309",
       "date": "2026-11-04",
-      "views": 2587,
+      "views": 2628,
       "note": "Random Tuesday in Michigan 😈"
     },
     {
@@ -299,7 +299,7 @@
     {
       "url": "https://www.tiktok.com/@freewillridez/video/7681463060522896653",
       "date": "2026-09-03",
-      "views": 4525,
+      "views": 4526,
       "note": "Freewillridez.com is live !!!!If you’re looking for any type…"
     },
     {
